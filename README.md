@@ -6,5 +6,5 @@
 2️⃣ Trends Analysis: Increment and decrement in number of units sold per product over the period of three months from January to March.         
 3️⃣ Real-Time Updates: With live data feeds, stay informed about the latest availability of essentials.         
 4️⃣ Tabular Description: Count of units sold to various customer ID.         
-# ![Apocalypse](Apocalypse Dashboard.png)
-![Apocalypse Dashboard](Apocalypse Dashboard.png)
+
+![Apocalypse Dashboard](https://github.com/Vijayalakshmi2704/Apocalypse-Sales-Power-BI-Dashboard/assets/140339927/33291cd1-b32b-48b2-a9ba-b4ea760bd67c)
